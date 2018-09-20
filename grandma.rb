@@ -5,10 +5,10 @@ def speak_to_grandma(speak)
 elsif speak == "Hi Nana, how are you?"
   return "HUH?! SPEAK UP, SONNY!"
 elsif speak == "WHAT DID YOU EAT TODAY?"
+  speak == "WHAT?"
   return "NO, NOT SINCE 1938!"
-elseif speak == "WHAT?"
   return "NO, NOT SINCE 1938!"
-else
-  "I LOVE YOU TOO PUMPKIN!"
+else speak == "I LOVE YOU GRANDMA!"
+  return "I LOVE YOU TOO PUMPKIN!"
  end
 end
