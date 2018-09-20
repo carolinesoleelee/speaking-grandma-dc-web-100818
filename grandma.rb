@@ -4,7 +4,7 @@ def speak_to_grandma(speak)
   return "HUH?! SPEAK UP, SONNY!"
 elsif speak == "Hi Nana, how are you?"
   return "HUH?! SPEAK UP, SONNY!"
-elsif speak == "WHAT DID YOU EAT TODAY?"
+elsif speak == ("WHAT DID YOU EAT TODAY?" , "WHAT?")
   return "NO, NOT SINCE 1938!"
 
 else speak == "I LOVE YOU GRANDMA!"
