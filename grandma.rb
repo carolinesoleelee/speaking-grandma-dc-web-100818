@@ -5,7 +5,9 @@ def speak_to_grandma(speak)
 elsif speak == "Hi Nana, how are you?"
   return "HUH?! SPEAK UP, SONNY!"
 elsif speak == "WHAT DID YOU EAT TODAY?"
-  return "NO, NOT SINCE 1938!"  
+  return "NO, NOT SINCE 1938!"
+elsif speak "WHAT?"
+  return "NO,NOT SINCE 1938!"   
 else speak == "I LOVE YOU GRANDMA!"
   return "I LOVE YOU TOO PUMPKIN!"
  end
