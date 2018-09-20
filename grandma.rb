@@ -8,7 +8,7 @@ elsif speak == "WHAT DID YOU EAT TODAY?"
   return "NO, NOT SINCE 1938!"
 elseif speak == "WHAT?"
   return "NO, NOT SINCE 1938!"
-else speak == "I LOVE YOU GRANDMA!"
-  return "I LOVE YOU TOO PUMPKIN!"
+else
+  "I LOVE YOU TOO PUMPKIN!"
  end
 end
